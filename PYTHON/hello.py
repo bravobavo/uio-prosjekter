@@ -14,7 +14,7 @@ def multiply(x, y):
 def divide(x, y):
     return x / y
 
-# Loop
+# Cool Loop
 while True:
     # Variables
     index = 0
